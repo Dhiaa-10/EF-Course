@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075821B4-1B98-4EDA-80D4-2C13CEBFAC2D}|EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj|c:\\users\\dia\\source\\repos\\metigator.ef.course\\ef012.codefirstmigration\\ef12.codefirstmigration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{075821B4-1B98-4EDA-80D4-2C13CEBFAC2D}|EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj|solutionrelative:ef012.codefirstmigration\\ef12.codefirstmigration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075821B4-1B98-4EDA-80D4-2C13CEBFAC2D}|EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj|c:\\users\\dia\\source\\repos\\metigator.ef.course\\ef012.codefirstmigration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075821B4-1B98-4EDA-80D4-2C13CEBFAC2D}|EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj|solutionrelative:ef012.codefirstmigration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6945AE95-8722-41D5-8F1F-C087EC767C51}|EF04\\EF04.csproj|c:\\users\\dia\\source\\repos\\metigator.ef.course\\ef04\\ef04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6945AE95-8722-41D5-8F1F-C087EC767C51}|EF04\\EF04.csproj|solutionrelative:ef04\\ef04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FE9DAF-0CA8-47F7-A9F3-A44819013519}|EF10.Metigator\\EF10.Metigator.csproj|c:\\users\\dia\\source\\repos\\metigator.ef.course\\ef10.metigator\\ef10.metigator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6FE9DAF-0CA8-47F7-A9F3-A44819013519}|EF10.Metigator\\EF10.Metigator.csproj|solutionrelative:ef10.metigator\\ef10.metigator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075821B4-1B98-4EDA-80D4-2C13CEBFAC2D}|EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj|c:\\users\\dia\\source\\repos\\metigator.ef.course\\ef012.codefirstmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075821B4-1B98-4EDA-80D4-2C13CEBFAC2D}|EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef012.codefirstmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EF04",
+              "DocumentMoniker": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF04\\EF04.csproj",
+              "RelativeDocumentMoniker": "EF04\\EF04.csproj",
+              "ToolTip": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF04\\EF04.csproj",
+              "RelativeToolTip": "EF04\\EF04.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T18:39:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EF10.Metigator",
+              "DocumentMoniker": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF10.Metigator\\EF10.Metigator.csproj",
+              "RelativeDocumentMoniker": "EF10.Metigator\\EF10.Metigator.csproj",
+              "ToolTip": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF10.Metigator\\EF10.Metigator.csproj",
+              "RelativeToolTip": "EF10.Metigator\\EF10.Metigator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T18:38:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF012.CodeFirstMigration\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EF012.CodeFirstMigration\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF012.CodeFirstMigration\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EF012.CodeFirstMigration\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T18:23:58.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EF12.CodeFirstMigration",
+              "DocumentMoniker": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj",
+              "RelativeDocumentMoniker": "EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj",
+              "ToolTip": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj",
+              "RelativeToolTip": "EF012.CodeFirstMigration\\EF12.CodeFirstMigration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T18:20:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF012.CodeFirstMigration\\Program.cs",
+              "RelativeDocumentMoniker": "EF012.CodeFirstMigration\\Program.cs",
+              "ToolTip": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF012.CodeFirstMigration\\Program.cs",
+              "RelativeToolTip": "EF012.CodeFirstMigration\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T18:19:51.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

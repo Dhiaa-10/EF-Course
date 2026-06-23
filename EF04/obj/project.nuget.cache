@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGnR3xwUKYg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF04\\EF04.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\Dia\\.nuget\\packages' doesn't exist.",
+      "projectPath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF04\\EF04.csproj",
+      "filePath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF04\\EF04.csproj",
+      "libraryId": "NHibernate",
+      "targetGraphs": []
+    }
+  ]
+}

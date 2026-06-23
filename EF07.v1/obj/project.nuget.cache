@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYjPoynYJYw=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\Dia\\.nuget\\packages' doesn't exist.",
+      "projectPath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+      "filePath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\Dia\\.nuget\\packages' doesn't exist.",
+      "projectPath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+      "filePath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\Dia\\.nuget\\packages' doesn't exist.",
+      "projectPath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+      "filePath": "C:\\Users\\Dia\\source\\repos\\Metigator.EF.Course\\EF07.v1\\EF07.v1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": []
+    }
+  ]
+}
